@@ -1,3 +1,3 @@
 # TestRepo
 This is repo is created for testing purpose.</br>
-Author: GDG
+Author: Test Author
